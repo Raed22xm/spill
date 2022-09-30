@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="531a989f-b14a-4354-a41b-95c143081223" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="531a989f-b14a-4354-a41b-95c143081223" name="Changes" comment="first copy 1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,8 +44,16 @@
       <workItem from="1664204593042" duration="5269000" />
       <workItem from="1664273910378" duration="2584000" />
       <workItem from="1664480728332" duration="3675000" />
-      <workItem from="1664515694416" duration="6480000" />
+      <workItem from="1664515694416" duration="6788000" />
     </task>
+    <task id="LOCAL-00001" summary="first copy 1.0">
+      <created>1664539508685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664539508685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first copy 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="first copy 1.0" />
   </component>
 </project>
